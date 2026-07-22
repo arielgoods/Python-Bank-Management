@@ -1,0 +1,10 @@
+{
+  "Ariel": {
+    "owner": "Ariel",
+    "balance": "500"
+  },
+  "Twix": {
+    "owner": "Twix",
+    "balance": "300"
+  }
+}

@@ -1,0 +1,23 @@
+# Python Banking System
+
+A command-line banking application built with Python.
+
+## Features
+
+- Create bank accounts
+- Deposit money
+- Withdraw money
+- Transfer money between accounts
+- Save account data using JSON
+- Uses Decimal for accurate financial calculations
+
+## Technologies
+
+- Python
+- JSON
+- Object-Oriented Programming
+
+## How to run
+
+```bash
+python bank_accounts.py
